@@ -28,7 +28,7 @@ namespace Dandara2
             services.AddControllersWithViews();
             services.AddControllers();
             services.AddDbContext<Context>(options =>
-            options.UseSqlServer(@"Server=dandara.database.windows.net;Database=Dandara; User Id =Squad38Recode; Password = Dandara38;"));
+            options.UseSqlServer(@"Server=dandaraweb2.database.windows.net;Database=dandaraweb; User Id =Dandaraweb2; Password = Squad38web;"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -172,7 +172,6 @@ C:\Users\Remakker\Documents\Dandara2-main\Dandara2\bin\Release\net5.0\Dandara2.d
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\bin\Release\net5.0\Dandara2.runtimeconfig.json
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\bin\Release\net5.0\Dandara2.runtimeconfig.dev.json
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\bin\Release\net5.0\Dandara2.dll
-C:\Users\Remakker\Documents\Dandara2-main\Dandara2\bin\Release\net5.0\ref\Dandara2.dll
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\bin\Release\net5.0\Dandara2.pdb
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\bin\Release\net5.0\Dandara2.Views.dll
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\bin\Release\net5.0\Dandara2.Views.pdb
@@ -291,7 +290,6 @@ C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Dandara2.M
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Dandara2.RazorAssemblyInfo.cache
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Dandara2.RazorAssemblyInfo.cs
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\staticwebassets\Dandara2.StaticWebAssets.Manifest.cache
-C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\staticwebassets\Dandara2.StaticWebAssets.xml
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\scopedcss\bundle\Dandara2.styles.css
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Dandara2.TagHelpers.input.cache
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Dandara2.TagHelpers.output.cache
@@ -308,7 +306,6 @@ C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Razor\View
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Razor\Views\ClienteCadastroes\Index.cshtml.g.cs
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Razor\Views\Home\Indexblog.cshtml.g.cs
-C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Razor\Views\Home\IndexSite.cshtml.g.cs
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Razor\Views\Home\manyproducts.cshtml.g.cs
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Razor\Views\Home\mariadosocorro.cshtml.g.cs
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
@@ -333,3 +330,4 @@ C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\ref\Dandar
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Dandara2.pdb
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Dandara2.genruntimeconfig.cache
 C:\Users\Remakker\Documents\Dandara2-main\Dandara2\obj\Release\net5.0\Razor\Views\Home\Manutencao.cshtml.g.cs
+C:\Users\Remakker\Documents\Dandara2-main\Dandara2\bin\Release\net5.0\ref\Dandara2.dll
